@@ -1,0 +1,2 @@
+¿por qué el nombre de una etiqueta propia debe llevar guion?
+por que si no ponemos el guion el navegador lo rechaza , este es obligatorio por que gracias a esto nunca choca con una etiequeta del estandar
